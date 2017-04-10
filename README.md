@@ -3,7 +3,7 @@ This program makes you to send the temperature to both thingspeak.com and your o
 
 First see this video
 
-https://youtu.be/kYAiuE5B97g
+https://youtu.be/oGqGuBX6opc
 In order to execute, you have to first download 2 files above.
 
 Next, you should execute mission7.ino with arduino. Make sure you use Sogang University's wifi.
